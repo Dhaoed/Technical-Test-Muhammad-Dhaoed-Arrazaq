@@ -14,6 +14,7 @@ This repository contains a web-based HR Data Management application built using 
 
 ## Tech Stack
 
+* **PHP:** 7 (following requirements)
 * **Framework:** Laravel 8 (PHP)
 * **Database:** PostgreSQL
 * **Frontend:** Bootstrap 5 (for a clean, responsive, and professional UI)
