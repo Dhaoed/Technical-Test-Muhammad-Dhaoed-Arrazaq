@@ -64,7 +64,9 @@ php artisan serve
 ```
 You can now access the application at http://127.0.0.1:8000 server.
 
-Thank you for the opportunity.
+Thank you for the opportunity. I look forward for any feedback!
+Sincerely yours
 
 Muhammad Dhaoed Arrazaq - Author
+
 for more information : mdhaoed@gmail.com
