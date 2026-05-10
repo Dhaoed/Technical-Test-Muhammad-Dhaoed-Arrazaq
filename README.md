@@ -64,6 +64,12 @@ php artisan serve
 ```
 You can now access the application at http://127.0.0.1:8000 server.
 
+##7. Attendance Import File Example
+To test the attendance import feature, you can find the Excel file(.xlx/.xlsx) in excel folder inside the public folder.
+``` bash
+public/excel/
+```
+
 Thank you for the opportunity. I look forward for any feedback!
 Sincerely yours
 
